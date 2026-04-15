@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NAMULAGAM2.aternos.me:44114",
+    "ip": "dory.aternos.me:44114",
     "port": 44114,
     "version": "",
     "try-creative": false
